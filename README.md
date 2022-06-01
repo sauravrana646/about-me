@@ -36,11 +36,7 @@ I'm 22-year-old boy with passion to learn about the DevOps Landscape. I love to 
 
 ### &nbsp; Languages
 
-<p float="left">
-
- <img align="right" height=220 alt="Coding gif" src="https://github.com/sauravrana646/sauravrana646/blob/main/gifs/tools.gif"/>
-
-</p>
+<img align="right" height=220 alt="Coding gif" src="https://github.com/sauravrana646/sauravrana646/blob/main/gifs/tools.gif"/>
 
 [<img src = 'https://github.com/sauravrana646/sauravrana646/blob/main/assets/logo/python.svg' height='60'/>](https://www.python.org/)&nbsp;&nbsp; [<img src = 'https://github.com/sauravrana646/sauravrana646/blob/main/assets/logo/bash.png' height='60'/>](https://www.gnu.org/software/bash/)
 
